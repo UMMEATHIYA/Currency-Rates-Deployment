@@ -10,3 +10,6 @@ We explore the application of Machine Learning for predicting bilateral Foreign 
 <a href="https://data.oecd.org/gdp/gross-domestic-product-gdp.htm">5.GDP - Gross Domestic Product</a>
 </ol>
 
+• Use news article sentiment to predict FER.
+• Collect and Cluster news articles from past 40 years.
+• Used proportion of articles per year falling in each cluster as an indication of sentiment to predict the next year’s exchange rate.
