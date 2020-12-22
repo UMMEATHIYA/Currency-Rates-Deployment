@@ -11,5 +11,5 @@ We explore the application of Machine Learning for predicting bilateral Foreign 
 </ol>
 
 • Use news article sentiment to predict FER.
-• Collect and Cluster news articles from past 40 years.
+• Collect and Cluster news articles from past 40 year
 • Used proportion of articles per year falling in each cluster as an indication of sentiment to predict the next year’s exchange rate.
